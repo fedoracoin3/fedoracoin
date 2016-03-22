@@ -1,0 +1,2 @@
+debian/bin/FedoraCoind usr/bin
+src/FedoraCoind usr/lib/FedoraCoin
